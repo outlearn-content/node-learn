@@ -1,4 +1,3 @@
-# Zlib
 
     Stability: 3 - Stable
 

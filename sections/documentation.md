@@ -1,4 +1,3 @@
-# About this Documentation
 
 <!-- type=misc -->
 

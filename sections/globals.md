@@ -1,4 +1,3 @@
-# Global Objects
 
 <!-- type=misc -->
 

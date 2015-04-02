@@ -1,4 +1,3 @@
-# Smalloc
 
     Stability: 1 - Experimental
 

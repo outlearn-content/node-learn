@@ -1,4 +1,3 @@
-# Debugger
 
     Stability: 3 - Stable
 

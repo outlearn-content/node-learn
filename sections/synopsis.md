@@ -1,4 +1,3 @@
-# Synopsis
 
 <!--type=misc-->
 

@@ -1,4 +1,3 @@
-# process
 
 <!-- type=global -->
 

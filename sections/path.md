@@ -1,4 +1,3 @@
-# Path
 
     Stability: 3 - Stable
 

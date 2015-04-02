@@ -1,4 +1,3 @@
-# Crypto
 
     Stability: 2 - Unstable; API changes are being discussed for
     future versions.  Breaking changes will be minimized.  See below.

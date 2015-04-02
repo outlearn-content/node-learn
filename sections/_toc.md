@@ -1,4 +1,3 @@
-* About these Docs
 * Synopsis
 * Assertion Testing
 * Buffer

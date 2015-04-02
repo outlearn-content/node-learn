@@ -1,4 +1,3 @@
-# HTTP
 
     Stability: 3 - Stable
 

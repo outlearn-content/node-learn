@@ -1,4 +1,3 @@
-# Stream
 
     Stability: 2 - Unstable
 

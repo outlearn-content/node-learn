@@ -1,4 +1,3 @@
-# URL
 
     Stability: 3 - Stable
 

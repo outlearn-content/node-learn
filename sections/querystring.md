@@ -1,4 +1,3 @@
-# Query String
 
     Stability: 3 - Stable
 

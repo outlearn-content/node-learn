@@ -1,4 +1,3 @@
-# DNS
 
     Stability: 3 - Stable
 

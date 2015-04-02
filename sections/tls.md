@@ -1,4 +1,3 @@
-# TLS (SSL)
 
     Stability: 3 - Stable
 

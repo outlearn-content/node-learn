@@ -1,4 +1,3 @@
-# Timers
 
     Stability: 5 - Locked
 

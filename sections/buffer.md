@@ -1,4 +1,3 @@
-# Buffer
 
     Stability: 3 - Stable
 

@@ -1,4 +1,3 @@
-# File System
 
     Stability: 3 - Stable
 

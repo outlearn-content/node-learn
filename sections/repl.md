@@ -1,4 +1,3 @@
-# REPL
 
     Stability: 3 - Stable
 

@@ -1,4 +1,3 @@
-# console
 
     Stability: 4 - API Frozen
 

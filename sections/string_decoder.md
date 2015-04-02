@@ -1,4 +1,3 @@
-# StringDecoder
 
     Stability: 3 - Stable
 

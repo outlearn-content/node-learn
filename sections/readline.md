@@ -1,4 +1,3 @@
-# Readline
 
     Stability: 2 - Unstable
 

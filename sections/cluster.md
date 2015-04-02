@@ -1,4 +1,3 @@
-# Cluster
 
     Stability: 2 - Unstable
 
