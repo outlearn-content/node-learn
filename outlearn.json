@@ -14,158 +14,151 @@
   "sections" : [
     {
       "title": "About these Docs",
-      "location": "sections/documentation.md",
+      "location": "sections/documentation.md"
     },
     {
       "title": "Synopsis",
-      "location": "sections/synopsis.md",
+      "location": "sections/synopsis.md"
     },
     {
       "title": "Assertion Testing",
-      "location": "sections/assert.md",
+      "location": "sections/assert.md"
     },
     {
       "title": "Buffer",
-      "location": "sections/buffer.md",
+      "location": "sections/buffer.md"
     },
     {
       "title": "C/C++ Addons",
-      "location": "sections/addons.md",
+      "location": "sections/addons.md"
     },
     {
       "title": "Child Processes",
-      "location": "sections/child_process.md",
+      "location": "sections/child_process.md"
     },
     {
       "title": "Cluster",
-      "location": "sections/cluster.md",
+      "location": "sections/cluster.md"
     },
     {
       "title": "Console",
-      "location": "sections/console.md",
+      "location": "sections/console.md"
     },
     {
       "title": "Crypto",
-      "location": "sections/crypto.md",
+      "location": "sections/crypto.md"
     },
     {
       "title": "Debugger",
-      "location": "sections/debugger.md",
+      "location": "sections/debugger.md"
     },
     {
       "title": "DNS",
-      "location": "sections/dns.md",
+      "location": "sections/dns.md"
     },
     {
       "title": "Domain",
-      "location": "sections/domain.md",
+      "location": "sections/domain.md"
     },
     {
       "title": "Events",
-      "location": "sections/events.md",
+      "location": "sections/events.md"
     },
     {
       "title": "File System",
-      "location": "sections/fs.md",
+      "location": "sections/fs.md"
     },
     {
       "title": "Globals",
-      "location": "sections/globals.md",
+      "location": "sections/globals.md"
     },
     {
       "title": "HTTP",
-      "location": "sections/http.md",
+      "location": "sections/http.md"
     },
     {
       "title": "HTTPS",
-      "location": "sections/https.md",
+      "location": "sections/https.md"
     },
     {
       "title": "Modules",
-      "location": "sections/modules.md",
+      "location": "sections/modules.md"
     },
     {
       "title": "Net",
-      "location": "sections/net.md",
+      "location": "sections/net.md"
     },
     {
       "title": "OS",
-      "location": "sections/os.md",
+      "location": "sections/os.md"
     },
     {
       "title": "Path",
-      "location": "sections/path.md",
+      "location": "sections/path.md"
     },
     {
       "title": "Process",
-      "location": "sections/process.md",
+      "location": "sections/process.md"
     },
     {
       "title": "Punycode",
-      "location": "sections/punycode.md",
+      "location": "sections/punycode.md"
     },
     {
       "title": "Query Strings",
-      "location": "sections/querystring.md",
+      "location": "sections/querystring.md"
     },
     {
       "title": "Readline",
-      "location": "sections/readline.md",
+      "location": "sections/readline.md"
     },
     {
       "title": "REPL",
-      "location": "sections/repl.md",
+      "location": "sections/repl.md"
     },
     {
       "title": "Smalloc",
-      "location": "sections/smalloc.md",
+      "location": "sections/smalloc.md"
     },
     {
       "title": "Stream",
-      "location": "sections/stream.md",
+      "location": "sections/stream.md"
     },
     {
       "title": "String Decoder",
-      "location": "sections/string_decoder.md",
+      "location": "sections/string_decoder.md"
     },
     {
       "title": "Timers",
-      "location": "sections/timers.md",
+      "location": "sections/timers.md"
     },
     {
       "title": "TLS/SSL",
-      "location": "sections/tls.md",
+      "location": "sections/tls.md"
     },
     {
       "title": "TTY",
-      "location": "sections/tty.md",
+      "location": "sections/tty.md"
     },
     {
       "title": "UDP/Datagram",
-      "location": "sections/dgram.md",
+      "location": "sections/dgram.md"
     },
     {
       "title": "URL",
-      "location": "sections/url.md",
+      "location": "sections/url.md"
     },
     {
       "title": "Utilities",
-      "location": "sections/util.md",
+      "location": "sections/util.md"
     },
     {
       "title": "VM",
-      "location": "sections/vm.md",
+      "location": "sections/vm.md"
     },
     {
       "title": "ZLIB",
-      "location": "sections/zlib.md",
-    }
-  ],
-  "assets" : [
-    {
-      "name" : "catalog_screen",
-      "contentType" : "image/png",
-      "location" : "assets/catalog_screen.png"
+      "location": "sections/zlib.md"
     }
   ]
 }
