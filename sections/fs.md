@@ -421,7 +421,7 @@ the current position. See pwrite(2).
 The callback will receive the arguments `(err, written, string)` where `written`
 specifies how many _bytes_ the passed string required to be written. Note that
 bytes written is not the same as string characters. See
-[Buffer.byteLength](buffer.html#buffer_class_method_buffer_bytelength_string_encoding).
+Buffer.byteLength.
 
 Unlike when writing `buffer`, the entire string must be written. No substring
 may be specified. This is because the byte offset of the resulting data may not
@@ -804,7 +804,7 @@ An example to read the last 10 bytes of a file which is 100 bytes long:
 
 ## Class: fs.ReadStream
 
-`ReadStream` is a [Readable Stream](stream.html#stream_class_stream_readable).
+`ReadStream` is a Readable Stream.
 
 ### Event: 'open'
 
@@ -836,7 +836,7 @@ Like `ReadStream` above, if `fd` is specified, `WriteStream` will ignore the
 
 ## Class: fs.WriteStream
 
-`WriteStream` is a [Writable Stream](stream.html#stream_class_stream_writable).
+`WriteStream` is a Writable Stream.
 
 ### Event: 'open'
 

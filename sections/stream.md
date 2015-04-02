@@ -136,9 +136,9 @@ destinations drain and ask for more data.
 
 Examples of readable streams include:
 
-* [http responses, on the client](http.html#http_http_incomingmessage)
-* [http requests, on the server](http.html#http_http_incomingmessage)
-* [fs read streams](fs.html#fs_class_fs_readstream)
+* http responses, on the client
+* http requests, on the server
+* fs read streams
 * [zlib streams][]
 * [crypto streams][]
 * [tcp sockets][]
@@ -492,13 +492,13 @@ that you are writing data *to*.
 
 Examples of writable streams include:
 
-* [http requests, on the client](http.html#http_class_http_clientrequest)
-* [http responses, on the server](http.html#http_class_http_serverresponse)
-* [fs write streams](fs.html#fs_class_fs_writestream)
+* http requests, on the client
+* http responses, on the server
+* fs write streams
 * [zlib streams][]
 * [crypto streams][]
 * [tcp sockets][]
-* [child process stdin](child_process.html#child_process_child_stdin)
+* child process stdin
 * [process.stdout][], [process.stderr][]
 
 #### writable.write(chunk[, encoding][, callback])

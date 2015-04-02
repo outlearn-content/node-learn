@@ -104,7 +104,7 @@ Example of listening for `uncaughtException`:
 Note that `uncaughtException` is a very crude mechanism for exception
 handling.
 
-Don't use it, use [domains](domain.html) instead. If you do use it, restart
+Don't use it, use domains instead. If you do use it, restart
 your application after every unhandled exception!
 
 Do *not* use it as the node.js equivalent of `On Error Resume Next`. An
@@ -203,7 +203,7 @@ on `process.stderr`, `process.stdout`, or `process.stdin`:
     $ node -p "Boolean(process.stdout.isTTY)" | cat
     false
 
-See [the tty docs](tty.html#tty_tty) for more information.
+See the tty docs for more information.
 
 ## process.stderr
 
@@ -242,7 +242,7 @@ Example of opening standard input and listening for both events:
 As a Stream, `process.stdin` can also be used in "old" mode that is compatible
 with scripts written for node prior v0.10.
 For more information see
-[Stream compatibility](stream.html#stream_compatibility_with_older_node_versions).
+Stream compatibility.
 
 In "old" Streams mode the stdin stream is paused by default, so one
 must call `process.stdin.resume()` to read from it. Note also that calling
@@ -745,7 +745,7 @@ a diff reading, useful for benchmarks and measuring intervals:
 ## process.mainModule
 
 Alternate way to retrieve
-[`require.main`](modules.html#modules_accessing_the_main_module).
+`require.main`.
 The difference is that if the main module changes at runtime, `require.main`
 might still refer to the original main module in modules that were required
 before the change occurred. Generally it's safe to assume that the two refer

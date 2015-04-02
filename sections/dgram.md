@@ -118,7 +118,7 @@ has been sent is by using a callback.
 
 With consideration for multi-byte characters, `offset` and `length` will
 be calculated with respect to
-[byte length](buffer.html#buffer_class_method_buffer_bytelength_string_encoding)
+byte length
 and not the character position.
 
 Example of sending a UDP packet to a random port on `localhost`;

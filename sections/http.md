@@ -200,8 +200,8 @@ already been bound to a port or domain socket.
 Listening on a file descriptor is not supported on Windows.
 
 This function is asynchronous. The last parameter `callback` will be added as
-a listener for the ['listening'](net.html#event_listening_) event.
-See also [net.Server.listen()](net.html#net_server_listen_handle_callback).
+a listener for the 'listening' event.
+See also net.Server.listen().
 
 ### server.close([callback])
 
