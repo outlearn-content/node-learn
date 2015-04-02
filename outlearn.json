@@ -17,10 +17,6 @@
       "location": "sections/documentation.md"
     },
     {
-      "title": "Synopsis",
-      "location": "sections/synopsis.md"
-    },
-    {
       "title": "Assertion Testing",
       "location": "sections/assert.md"
     },
